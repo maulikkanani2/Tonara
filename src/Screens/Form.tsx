@@ -24,7 +24,6 @@ const Form = () => {
             music_genre: music_genre,
             daily_practice_time: dailytime,
             days: days,
-            days_practiced: 0
         });
 
         var requestOptions = {
